@@ -1,5 +1,6 @@
 # Unity-WebGLTemplate-Fullscreen
-Unity WebGL template based on Default. Has fullscreen button on bottom right. This is intended for portal websites like Itch.io or Newgrounds.com
+Unity WebGL template based on Default. Has fullscreen button on bottom right. This is intended for portal websites like Itch.io or Newgrounds.com  
+Make sure to add 45 pixels to the height when uploading to a portal in order to show the fullscreen button! See intructions below.
   
 Tested on Unity 2019.8 LTS
 
